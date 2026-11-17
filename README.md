@@ -1,2 +1,2 @@
 # Exercicios_Python
-exercicios que eu fazer no senai
+exercicios que eu fizer no senai
